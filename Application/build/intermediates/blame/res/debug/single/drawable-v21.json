@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable-v21/card_action_bg_negative.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/drawable-v21/card_action_bg_negative.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable-v21/card_action_bg.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/drawable-v21/card_action_bg.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable-v21/card_action_bg_positive.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/drawable-v21/card_action_bg_positive.xml"
+    }
+]

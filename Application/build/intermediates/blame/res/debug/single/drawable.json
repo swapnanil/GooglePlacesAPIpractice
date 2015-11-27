@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/card_action_text_negative.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/drawable/card_action_text_negative.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/card_action_icon_negative.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/drawable/card_action_icon_negative.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/card_overlay_focused.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/drawable/card_overlay_focused.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/card_action_bg_positive.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/drawable/card_action_bg_positive.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/card_action_bg.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/drawable/card_action_bg.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/card_action_bg_negative.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/drawable/card_action_bg_negative.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/card_action_text.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/drawable/card_action_text.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/card_action_text_positive.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/drawable/card_action_text_positive.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/card_action_icon_neutral.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/drawable/card_action_icon_neutral.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/card_separator.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/drawable/card_separator.xml"
+    },
+    {
+        "merged": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/res/merged/debug/drawable/card_action_icon_positive.xml",
+        "source": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/drawable/card_action_icon_positive.xml"
+    }
+]
