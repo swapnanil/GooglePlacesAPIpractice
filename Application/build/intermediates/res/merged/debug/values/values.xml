@@ -123,9 +123,7 @@ available. Please contact the developer for assistance.</string>
     </string>
     <string name="intro_title">PlacePicker Sample</string>
     <string name="pick_action">Pick a place</string>
-    <string name="pick_text">Clicking below constructs an Intent to show the place picker dialog.
-\nIf a place was selected, its details are read from the returned data and shown in a separate card.
-</string>
+    <string name="pick_text">From the map, and the details of that place are then displayed here.</string>
     <string name="pick_title">Pick a place</string>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>

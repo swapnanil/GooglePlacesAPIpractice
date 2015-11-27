@@ -1237,15 +1237,7 @@
                     "endOffset": 12838
                 },
                 "from": {
-                    "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/base-strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 105,
-                        "endLine": 13,
-                        "endColumn": 13,
-                        "endOffset": 316
-                    }
+                    "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/base-strings.xml"
                 }
             },
             {
@@ -1277,57 +1269,63 @@
                     "startLine": 125,
                     "startColumn": 4,
                     "startOffset": 12955,
-                    "endLine": 127,
-                    "endColumn": 9,
-                    "endOffset": 13159
+                    "endColumn": 106,
+                    "endOffset": 13057
+                },
+                "from": {
+                    "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/placepicker_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 106,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 13062,
+                    "endColumn": 51,
+                    "endOffset": 13109
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/placepicker_strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 13114,
+                    "endColumn": 95,
+                    "endOffset": 13205
+                },
+                "from": {
+                    "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/res/values/admob_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 128,
                     "startColumn": 4,
-                    "startOffset": 13164,
-                    "endColumn": 51,
-                    "endOffset": 13211
+                    "startOffset": 13210,
+                    "endColumn": 58,
+                    "endOffset": 13264
                 },
                 "from": {
-                    "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/placepicker_strings.xml"
+                    "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/res/values/admob_strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 129,
                     "startColumn": 4,
-                    "startOffset": 13216,
-                    "endColumn": 95,
-                    "endOffset": 13307
-                },
-                "from": {
-                    "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/res/values/admob_strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 130,
-                    "startColumn": 4,
-                    "startOffset": 13312,
-                    "endColumn": 58,
-                    "endOffset": 13366
-                },
-                "from": {
-                    "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/res/values/admob_strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 131,
-                    "startColumn": 4,
-                    "startOffset": 13371,
+                    "startOffset": 13269,
                     "endColumn": 189,
-                    "endOffset": 13556
+                    "endOffset": 13454
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/res/values/wallet_strings.xml"
@@ -1335,11 +1333,11 @@
             },
             {
                 "to": {
-                    "startLine": 132,
+                    "startLine": 130,
                     "startColumn": 4,
-                    "startOffset": 13561,
+                    "startOffset": 13459,
                     "endColumn": 50,
-                    "endOffset": 13607
+                    "endOffset": 13505
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/template-styles.xml"
@@ -1347,12 +1345,12 @@
             },
             {
                 "to": {
-                    "startLine": 133,
+                    "startLine": 131,
                     "startColumn": 4,
-                    "startOffset": 13612,
-                    "endLine": 136,
+                    "startOffset": 13510,
+                    "endLine": 134,
                     "endColumn": 12,
-                    "endOffset": 13778
+                    "endOffset": 13676
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
@@ -1360,12 +1358,12 @@
             },
             {
                 "to": {
-                    "startLine": 137,
+                    "startLine": 135,
                     "startColumn": 4,
-                    "startOffset": 13783,
-                    "endLine": 144,
+                    "startOffset": 13681,
+                    "endLine": 142,
                     "endColumn": 12,
-                    "endOffset": 14265
+                    "endOffset": 14163
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
@@ -1373,12 +1371,12 @@
             },
             {
                 "to": {
-                    "startLine": 145,
+                    "startLine": 143,
                     "startColumn": 4,
-                    "startOffset": 14270,
-                    "endLine": 149,
+                    "startOffset": 14168,
+                    "endLine": 147,
                     "endColumn": 12,
-                    "endOffset": 14514
+                    "endOffset": 14412
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
@@ -1386,12 +1384,12 @@
             },
             {
                 "to": {
-                    "startLine": 150,
+                    "startLine": 148,
                     "startColumn": 4,
-                    "startOffset": 14519,
-                    "endLine": 154,
+                    "startOffset": 14417,
+                    "endLine": 152,
                     "endColumn": 12,
-                    "endOffset": 14841
+                    "endOffset": 14739
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
@@ -1399,12 +1397,12 @@
             },
             {
                 "to": {
-                    "startLine": 155,
+                    "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 14846,
-                    "endLine": 159,
+                    "startOffset": 14744,
+                    "endLine": 157,
                     "endColumn": 12,
-                    "endOffset": 15148
+                    "endOffset": 15046
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
@@ -1412,12 +1410,25 @@
             },
             {
                 "to": {
-                    "startLine": 160,
+                    "startLine": 158,
                     "startColumn": 4,
-                    "startOffset": 15153,
+                    "startOffset": 15051,
+                    "endLine": 162,
+                    "endColumn": 12,
+                    "endOffset": 15373
+                },
+                "from": {
+                    "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 15378,
                     "endLine": 164,
                     "endColumn": 12,
-                    "endOffset": 15475
+                    "endOffset": 15449
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
@@ -1427,10 +1438,10 @@
                 "to": {
                     "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 15480,
-                    "endLine": 166,
+                    "startOffset": 15454,
+                    "endLine": 167,
                     "endColumn": 12,
-                    "endOffset": 15551
+                    "endOffset": 15567
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
@@ -1438,12 +1449,12 @@
             },
             {
                 "to": {
-                    "startLine": 167,
+                    "startLine": 168,
                     "startColumn": 4,
-                    "startOffset": 15556,
-                    "endLine": 169,
+                    "startOffset": 15572,
+                    "endLine": 172,
                     "endColumn": 12,
-                    "endOffset": 15669
+                    "endOffset": 15856
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
@@ -1451,12 +1462,12 @@
             },
             {
                 "to": {
-                    "startLine": 170,
+                    "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 15674,
-                    "endLine": 174,
+                    "startOffset": 15861,
+                    "endLine": 176,
                     "endColumn": 12,
-                    "endOffset": 15958
+                    "endOffset": 16037
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
@@ -1464,12 +1475,12 @@
             },
             {
                 "to": {
-                    "startLine": 175,
+                    "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 15963,
-                    "endLine": 178,
+                    "startOffset": 16042,
+                    "endLine": 183,
                     "endColumn": 12,
-                    "endOffset": 16139
+                    "endOffset": 16479
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
@@ -1477,12 +1488,12 @@
             },
             {
                 "to": {
-                    "startLine": 179,
+                    "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 16144,
-                    "endLine": 185,
+                    "startOffset": 16484,
+                    "endLine": 188,
                     "endColumn": 12,
-                    "endOffset": 16581
+                    "endOffset": 16713
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
@@ -1490,12 +1501,12 @@
             },
             {
                 "to": {
-                    "startLine": 186,
+                    "startLine": 189,
                     "startColumn": 4,
-                    "startOffset": 16586,
-                    "endLine": 190,
+                    "startOffset": 16718,
+                    "endLine": 193,
                     "endColumn": 12,
-                    "endOffset": 16815
+                    "endOffset": 16947
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
@@ -1503,12 +1514,12 @@
             },
             {
                 "to": {
-                    "startLine": 191,
+                    "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 16820,
+                    "startOffset": 16952,
                     "endLine": 195,
                     "endColumn": 12,
-                    "endOffset": 17049
+                    "endOffset": 17019
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
@@ -1518,10 +1529,10 @@
                 "to": {
                     "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 17054,
-                    "endLine": 197,
+                    "startOffset": 17024,
+                    "endLine": 199,
                     "endColumn": 12,
-                    "endOffset": 17121
+                    "endOffset": 17231
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
@@ -1529,25 +1540,12 @@
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 200,
                     "startColumn": 4,
-                    "startOffset": 17126,
-                    "endLine": 201,
+                    "startOffset": 17236,
+                    "endLine": 207,
                     "endColumn": 12,
-                    "endOffset": 17333
-                },
-                "from": {
-                    "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 202,
-                    "startColumn": 4,
-                    "startOffset": 17338,
-                    "endLine": 209,
-                    "endColumn": 12,
-                    "endOffset": 17799
+                    "endOffset": 17697
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/res/values/values.xml"
@@ -1555,12 +1553,12 @@
             },
             {
                 "to": {
-                    "startLine": 210,
+                    "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 17804,
-                    "endLine": 212,
+                    "startOffset": 17702,
+                    "endLine": 210,
                     "endColumn": 12,
-                    "endOffset": 17925
+                    "endOffset": 17823
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/res/values/values.xml"
@@ -1568,12 +1566,12 @@
             },
             {
                 "to": {
-                    "startLine": 213,
+                    "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 17930,
-                    "endLine": 215,
+                    "startOffset": 17828,
+                    "endLine": 213,
                     "endColumn": 12,
-                    "endOffset": 18053
+                    "endOffset": 17951
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/res/values/values.xml"
@@ -1581,11 +1579,11 @@
             },
             {
                 "to": {
-                    "startLine": 216,
+                    "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 18058,
+                    "startOffset": 17956,
                     "endColumn": 59,
-                    "endOffset": 18113
+                    "endOffset": 18011
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/template-styles.xml"
@@ -1593,12 +1591,12 @@
             },
             {
                 "to": {
-                    "startLine": 217,
+                    "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 18118,
-                    "endLine": 224,
+                    "startOffset": 18016,
+                    "endLine": 222,
                     "endColumn": 10,
-                    "endOffset": 18537
+                    "endOffset": 18435
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/res/values/admob_iap_style.xml"
@@ -1606,11 +1604,11 @@
             },
             {
                 "to": {
-                    "startLine": 225,
+                    "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 18542,
+                    "startOffset": 18440,
                     "endColumn": 52,
-                    "endOffset": 18590
+                    "endOffset": 18488
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/template-styles.xml"
@@ -1618,12 +1616,12 @@
             },
             {
                 "to": {
-                    "startLine": 226,
+                    "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 18595,
-                    "endLine": 233,
+                    "startOffset": 18493,
+                    "endLine": 231,
                     "endColumn": 12,
-                    "endOffset": 19119
+                    "endOffset": 19017
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/res/values/wallet_styles.xml"
@@ -1631,12 +1629,12 @@
             },
             {
                 "to": {
-                    "startLine": 234,
+                    "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 19124,
-                    "endLine": 236,
+                    "startOffset": 19022,
+                    "endLine": 234,
                     "endColumn": 12,
-                    "endOffset": 19303
+                    "endOffset": 19201
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/res/values/wallet_styles.xml"
@@ -1644,12 +1642,12 @@
             },
             {
                 "to": {
-                    "startLine": 237,
+                    "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 19308,
-                    "endLine": 244,
+                    "startOffset": 19206,
+                    "endLine": 242,
                     "endColumn": 12,
-                    "endOffset": 19832
+                    "endOffset": 19730
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/res/values/wallet_styles.xml"
@@ -1657,12 +1655,12 @@
             },
             {
                 "to": {
-                    "startLine": 245,
+                    "startLine": 243,
                     "startColumn": 4,
-                    "startOffset": 19837,
-                    "endLine": 257,
+                    "startOffset": 19735,
+                    "endLine": 255,
                     "endColumn": 12,
-                    "endOffset": 20830
+                    "endOffset": 20728
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/res/values/wallet_styles.xml"
@@ -1670,11 +1668,11 @@
             },
             {
                 "to": {
-                    "startLine": 258,
+                    "startLine": 256,
                     "startColumn": 4,
-                    "startOffset": 20835,
+                    "startOffset": 20733,
                     "endColumn": 26,
-                    "endOffset": 20857
+                    "endOffset": 20755
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/template-styles.xml"
@@ -1682,12 +1680,12 @@
             },
             {
                 "to": {
-                    "startLine": 259,
+                    "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 20862,
-                    "endLine": 262,
+                    "startOffset": 20760,
+                    "endLine": 260,
                     "endColumn": 12,
-                    "endOffset": 21053
+                    "endOffset": 20951
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/template-styles.xml"
@@ -1695,12 +1693,12 @@
             },
             {
                 "to": {
-                    "startLine": 263,
+                    "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 21058,
-                    "endLine": 268,
+                    "startOffset": 20956,
+                    "endLine": 266,
                     "endColumn": 12,
-                    "endOffset": 21331
+                    "endOffset": 21229
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values/template-styles.xml"
