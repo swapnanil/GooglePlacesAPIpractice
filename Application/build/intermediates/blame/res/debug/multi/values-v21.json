@@ -9,17 +9,17 @@
                     "startOffset": 55,
                     "endLine": 3,
                     "endColumn": 12,
-                    "endOffset": 131
+                    "endOffset": 145
                 },
                 "from": {
                     "file": "/home/swap/dir/android-play-places-master/PlacePicker/Application/src/main/res/values-v21/base-template-styles.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 676,
-                        "endLine": 20,
+                        "startOffset": 86,
+                        "endLine": 6,
                         "endColumn": 12,
-                        "endOffset": 752
+                        "endOffset": 176
                     }
                 }
             }
