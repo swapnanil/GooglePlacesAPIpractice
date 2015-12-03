@@ -1,2 +1,180 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/swap/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/support-annotations-22.0.0_e63012827c81c37ed0f65c040dc974a33dd6d55c.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-location-7.3.0_14c2d77f62a6b02ccc318cad99f25576ec6306c9.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-7.3.0_6d29bafefd288225522433e530ba13a1fd5dcc7d.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-identity-7.3.0_35ca576cf9412ed1ed673f68ae7ebc53f1ab7bdf.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appstate-7.3.0_2d982fdcc512696184739d2c6e424c93a41f9eab.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-7.3.0_d85843ee1deca0e90818ad3e9a4335915fa68c93.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-safetynet-7.3.0_68f8056d689710889df061ed930629603edd2385.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-fitness-7.3.0_3fd8cb2d97b6dd13431954d04d87b5260006f711.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-7.3.0_962873fb8773be2c60ec4c7a2a3453c510cbad43.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-drive-7.3.0_9f69ab8f27fcb54b1f044183abe92faa5bbe53cc.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appindexing-7.3.0_25c37a6e7c6891a3bcb6c477a3c56f18f7ffb6b6.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-21.0.2_682d30dbf625e6b12067a7d03c8b0287d29588b6.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/internal_impl-22.0.0_d9a03dc88822ce955eabfb9cbfb2cfffd3d3c814.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-panorama-7.3.0_880880e7f3c18ab9e4b0353121cd10e1ea4ef531.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-maps-7.3.0_26b8284f53af8e244fb2b507b46dadd1f7c5106d.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-nearby-7.3.0_d586534f6976722555074d82533271ae1c17d52e.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-games-7.3.0_f537429d030d1691efa7a541c3d170c5e19433b4.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-7.3.0_35a10a24d10ed90b3526dec73ca023f151fc1da3.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-7.3.0_760d6cd440cdb31cca1fc9f3eda1679ae2e91a50.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wallet-7.3.0_d94425b1eace4f0ce24def4b5d438ab8d1ff4130.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.android.support-support-v13-21.0.2_d5f0725c4ed8fdcdfdceaccd95b6ff038c09d7fe.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/internal_impl-21.0.2_9ba58dbfdfc2eb0f9d972d41e0cd4afa32358bda.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-plus-7.3.0_41ee915afebb3680bfcf0924d9c9cc32b0a401ce.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.android.support-support-v4-22.0.0_af18ebf5fc18d1af8c9ba599073e12122f8364f8.jar" />
+    </item>
+    <item
+        jar="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/home/swap/dir/android-play-places-master/PlacePicker/Application/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-cast-7.3.0_0ad951cca2dfff90e1fe8562c9c18e1559399302.jar" />
+    </item>
+
+</items>
